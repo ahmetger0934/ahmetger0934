@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Ger</h1>
 <h3 align="center">A passionate Backend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python,Java,AI,Machine Learning,LLM,**
 
 - 🌱 I’m currently learning **Spring Boot, Node.js,React,Docker**
 
