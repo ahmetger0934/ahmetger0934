@@ -1,13 +1,13 @@
 [![MasterHead](https://www.cybher.org/wp-content/uploads/2023/08/top-programming-languages-980x500.jpg)
 
 <h1 align="center">Hi 👋, I'm Ahmet Ger</h1>
-<h3 align="center">A passionate Backend developer from Türkiye</h3>
+<h3 align="center">A passionate AI/ ML Engineer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Python,Java,AI,Machine Learning,LLM,**
+- 🔭 I’m currently working on **Python,Java,AI,Machine Learning,LLM,NLP,RAG, Fine-Tuning**
 
-- 🌱 I’m currently learning **Spring Boot, Node.js,React,Docker**
+- 🌱 I’m currently learning **Microservices,DevOps,MainFrame,MCP server, AI-Agents,Docker**
 
-- 💬 Ask me about **Java, C++, Python, Android**
+- 💬 Ask me about **Java, C++, Python, AI, ML, NLP, LLM**
 
 - 📫 How to reach me **ahmet.ger@bahcesehir.edu.tr**
 
